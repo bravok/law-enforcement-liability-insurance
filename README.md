@@ -1,6 +1,12 @@
 # law-enforcement-liability-insurance
 
-(Introduction)[https://github.com/bravok/law-enforcement-liability-insurance#introduction]
+[Introduction](https://github.com/bravok/law-enforcement-liability-insurance#introduction)
+[Architecture](https://github.com/bravok/law-enforcement-liability-insurance#architecture)
+[Implementation](https://github.com/bravok/law-enforcement-liability-insurance#implementation)
+[Operation](https://github.com/bravok/law-enforcement-liability-insurance#operation)
+[Supporting Information](https://github.com/bravok/law-enforcement-liability-insurance#supportinginformation)
+[References & Evidence](https://github.com/bravok/law-enforcement-liability-insurance#references&evidence)
+
 
 ## Introduction
 
