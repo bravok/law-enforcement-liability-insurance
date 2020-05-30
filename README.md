@@ -1,4 +1,7 @@
 # law-enforcement-liability-insurance
+
+## Introduction
+
 A proposal to reduce law enforcement malpractice in the United States
 
 Government organizations and municipalities with law enforcement agencies should enact legislation that perform the following tasks:
@@ -28,13 +31,20 @@ The expected outcomes of this initiative would include the following:
 4) Competitive insurance products to provide law enforcement malpractice insurance
 5) Increased cost for operating a law enforcement agency
 
-Architecture
+## Architecture
 
-Implementation
+## Implementation
 
-Operation
+## Operation
 
-References & Evidence
+## Supporting Information
+
+The following link includes additional insight into the idea, including previous discussion.
+
+https://github.com/bravok/law-enforcement-liability-insurance/wiki/Previously-Asked-Questions
+
+
+## References & Evidence
 
 https://www.theatlantic.com/politics/archive/2017/06/insurance-companies-police/529833/
 https://www.theatlantic.com/projects/the-presence-of-justice/
