@@ -1,2 +1,30 @@
 # law-enforcement-liability-insurance
 A proposal to reduce law enforcement malpractice in the United States
+
+Government organizations and municipalities with law enforcement agencies should enact legislation that perform the following tasks:
+
+1) Require individuals employed in law enforcement roles with access and authorization to apply force of any kind to others to hold an actively liability insurance policy.
+2) Increase the budget sufficiently to increase the pay of these employees for their insurance premium at a nominal rate. 
+3) Require that the liability coverage be a minimum of $10 million, adjusted for inflation and geography they work in
+4) Adjust existing legislation to account for the use of liability insurance to cover victims of law enforcement malpractice in such a way to hold law enforcement personel responsible for compensating victims from their liability policies
+5) facilitate relationships with law enforcement liability insurance companies to audit personnel
+
+They should additionally seek to enable insurance companies to create law enforcement malpractice products to offer individuals seeking employment in law enforcement. These insurance companies would set premiums for individuals based on several factors including but not limited to the following:
+
+1) background check
+2) prior claims of malpractice against the individual
+3) disposition on social media channels which may influence how they interact with people of different races, sexual orientation, gender, age, or mental disorders
+
+Those individuals with a history of issues in one of these areas would be charged a higher premium for liability coverage. Individuals with prior claims against them or documented abuse would have premiums that exceed the pay they may receive for employment as law enforcement officers. This would prevent them from working in these job positions and would force them to seek employment elsewhere.
+
+Governed areas that require insurance would work with insurance companies when a claim is filed to assess the validity of the claim. They would periodically confirm that their staff have malpractice insurance.
+
+Governed areas that do not require insurance would be know to the public by third party reporting. Individual citizens could make informed decisions as to the risk of living in these areas, and to apply pressure to elected officials to require such insurance.
+
+The expected outcomes of this initiative would include the following:
+1) Reduced wrongful deaths by law enforcement agents
+2) Increased accountability of law enforcement agents for their behavior and actions
+3) Reduction of law enforcement agents with a history of malpractice or dispositions against groups of people
+4) Competitive insurance products to provide law enforcement malpractice insurance
+5) Increased cost for operating a law enforcement agency
+
