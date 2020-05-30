@@ -75,4 +75,5 @@ https://en.wikipedia.org/wiki/Law_enforcement_in_the_United_States#Types_of_poli
 https://en.wikipedia.org/wiki/High_policing
 https://en.wikipedia.org/wiki/Broken_windows_theory
 https://www.indeed.com/career/law-enforcement-officer/salaries
+https://en.wikipedia.org/wiki/Shooting_of_Charles_Kinsey
 
