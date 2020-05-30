@@ -77,3 +77,6 @@ https://en.wikipedia.org/wiki/Broken_windows_theory
 https://www.indeed.com/career/law-enforcement-officer/salaries
 https://en.wikipedia.org/wiki/Shooting_of_Charles_Kinsey
 
+Shooting of Ricardo "Ricky" Hayes, an 18 year old Autistic man.
+https://www.youtube.com/watch?v=SqvlVLm47gY
+
