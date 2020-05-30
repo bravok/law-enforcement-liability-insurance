@@ -8,7 +8,7 @@
 
 [Operation](https://github.com/bravok/law-enforcement-liability-insurance#operation)
 
-[Supporting Information](https://github.com/bravok/law-enforcement-liability-insurance#supportingin-formation)
+[Supporting Information](https://github.com/bravok/law-enforcement-liability-insurance#supporting-information)
 
 [References & Evidence](https://github.com/bravok/law-enforcement-liability-insurance#references-and-evidence)
 
