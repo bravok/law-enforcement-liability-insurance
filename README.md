@@ -1,5 +1,7 @@
 # law-enforcement-liability-insurance
 
+(Introduction)[https://github.com/bravok/law-enforcement-liability-insurance#introduction]
+
 ## Introduction
 
 A proposal to reduce law enforcement malpractice in the United States
