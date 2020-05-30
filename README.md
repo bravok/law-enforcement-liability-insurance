@@ -47,6 +47,8 @@ The expected outcomes of this initiative would include the following:
 
 ## Architecture
 
+![Image of Architecture](https://raw.githubusercontent.com/bravok/law-enforcement-liability-insurance/master/target_architecture.png)
+
 ## Implementation
 
 ## Operation
