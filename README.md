@@ -1,11 +1,17 @@
 # law-enforcement-liability-insurance
 
 [Introduction](https://github.com/bravok/law-enforcement-liability-insurance#introduction)
+
 [Architecture](https://github.com/bravok/law-enforcement-liability-insurance#architecture)
+
 [Implementation](https://github.com/bravok/law-enforcement-liability-insurance#implementation)
+
 [Operation](https://github.com/bravok/law-enforcement-liability-insurance#operation)
-[Supporting Information](https://github.com/bravok/law-enforcement-liability-insurance#supportinginformation)
-[References & Evidence](https://github.com/bravok/law-enforcement-liability-insurance#references&evidence)
+
+[Supporting Information](https://github.com/bravok/law-enforcement-liability-insurance#supportingin%20formation)
+
+[References & Evidence](https://github.com/bravok/law-enforcement-liability-insurance#references%20and%20evidence)
+
 
 
 ## Introduction
@@ -52,7 +58,7 @@ The following link includes additional insight into the idea, including previous
 https://github.com/bravok/law-enforcement-liability-insurance/wiki/Previously-Asked-Questions
 
 
-## References & Evidence
+## References And Evidence
 
 https://www.theatlantic.com/politics/archive/2017/06/insurance-companies-police/529833/
 https://www.theatlantic.com/projects/the-presence-of-justice/
