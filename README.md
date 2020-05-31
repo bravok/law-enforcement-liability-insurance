@@ -59,8 +59,12 @@ The following link includes additional insight into the idea, including previous
 
 https://github.com/bravok/law-enforcement-liability-insurance/wiki/Previously-Asked-Questions
 
+## References
 
-## References And Evidence
+
+## Related Reading
+
+This section lists links I read while building up this plan. These are not references or evidence, but rather just consumed information.
 
 https://www.theatlantic.com/politics/archive/2017/06/insurance-companies-police/529833/
 
@@ -91,5 +95,10 @@ https://www.indeed.com/career/law-enforcement-officer/salaries
 https://en.wikipedia.org/wiki/Shooting_of_Charles_Kinsey
 
 Shooting of Ricardo "Ricky" Hayes, an 18 year old Autistic man.
+
 https://www.youtube.com/watch?v=SqvlVLm47gY
+
+Police Riots
+
+https://en.wikipedia.org/wiki/Police_riot
 
