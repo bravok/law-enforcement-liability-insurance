@@ -63,14 +63,33 @@ https://github.com/bravok/law-enforcement-liability-insurance/wiki/Previously-As
 ## References And Evidence
 
 https://www.theatlantic.com/politics/archive/2017/06/insurance-companies-police/529833/
+
 https://www.theatlantic.com/projects/the-presence-of-justice/
+
 http://www.safetyandjusticechallenge.org/about-the-challenge/
+
 https://www.travelers.com/business-insurance/general-liability/law-enforcement
+
 https://www.trustedchoice.com/professional-liability-insurance/police-officer/
+
 https://www.npr.org/2016/06/27/483420607/to-stop-police-lawsuits-reformers-want-officers-to-get-insurance
+
 https://www.policeone.com/career-advice/articles/do-cops-need-personal-liability-insurance-TfuFT0VifKwqRXe4/
+
 https://www.governing.com/topics/finance/gov-police-misconduct-growing-financial-issue.html
+
 https://www.washingtonpost.com/news/true-crime/wp/2016/06/22/study-finds-1100-police-officers-per-year-or-3-per-day-are-arrested-nationwide/
+
 https://en.wikipedia.org/wiki/Law_enforcement_in_the_United_States#Types_of_police
+
 https://en.wikipedia.org/wiki/High_policing
+
 https://en.wikipedia.org/wiki/Broken_windows_theory
+
+https://www.indeed.com/career/law-enforcement-officer/salaries
+
+https://en.wikipedia.org/wiki/Shooting_of_Charles_Kinsey
+
+Shooting of Ricardo "Ricky" Hayes, an 18 year old Autistic man.
+https://www.youtube.com/watch?v=SqvlVLm47gY
+
